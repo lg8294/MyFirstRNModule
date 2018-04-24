@@ -1,5 +1,18 @@
 {
-  "name": "MyFirstRNModule",
+  "name": "my-first-rn-module",
   "version": "0.0.1",
-  "keywords": "react-native"
+  "main": "index.js",
+  "keywords": [
+    "react-native"
+  ],
+  "author": "lg",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lg8294/MyFirstRNModule.git"
+  },
+  "homepage": "https://github.com/lg8294/MyFirstRNModule",
+  "bugs": {
+    "url": "https://github.com/lg8294/MyFirstRNModule/issues"
+  }
 }
